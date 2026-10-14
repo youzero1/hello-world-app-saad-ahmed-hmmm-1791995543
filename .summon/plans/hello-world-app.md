@@ -1,11 +1,12 @@
 ---
-status: pending
+status: implemented
 title: Hello World app
 option: clean-light-theme :: Clean light theme :: A bright, minimal page with airy spacing and soft neutrals.
 option: sleek-dark-theme :: Sleek dark theme :: A dark, modern page with a glowing accent color.
 option: playful-gradient-theme :: Playful gradient theme :: A bold, colorful page with vibrant gradients and decorative shapes.
 option: built-in-theme-switcher :: Built-in theme switcher :: One page with a picker to switch between light, dark, and playful themes.
 recommended: built-in-theme-switcher
+selected: clean-light-theme
 ---
 
 ## Common steps
